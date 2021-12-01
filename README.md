@@ -5,6 +5,14 @@
 ## Description 
 This application is a Note-Taker that can write and save notes. Starter code was given.
 
+![image](https://user-images.githubusercontent.com/85199825/144284231-947740d8-a18b-41c2-99c7-40948f511cb2.png)
+
+
+![image](https://user-images.githubusercontent.com/85199825/144284364-760ed080-9d4a-436b-9018-acc6649dca0f.png)
+
+
+
+
 
 ## Table of Contents
 1. [Installation](#installation)
@@ -30,7 +38,7 @@ Contributions are welcome, feedback is important!
 If you have any questions about the repo, please open an issue or contact me directly at elsabalk@hotmail.com.
 
 ## Deployed Site
-
+https://tranquil-escarpment-81677.herokuapp.com/
 
 ## Static Repo
 https://github.com/elsabalk/Note-Taker.git
